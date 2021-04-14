@@ -1,2 +1,2 @@
 # arief-resolusi
-Repository untuk menyimpan rencana arief kedepannya
+Repository untuk menyimpan rencana kerja arief kedepannya
