@@ -1,3 +1,5 @@
 ARIEF RESOLUSI
 1. Menyelesaikan belajar video materi GIT & GITHUB di Web Programming UNPAS pada minggu ke-2 bulan April 2021
 2. Menyelesaikan belajar video materi MEMBUAT SISTEM LOGIN LENGKAP MENGGUNAKAN CODEIGNITER di Web Programming UNPAS pada minggu ke-3 bulan April 2021
+3. Konsultasi materi Kerja Praktek
+4. Menyetorkan formulir permohonan Kerja Praktek kepada Koordinator Kerja Praktek
